@@ -1,0 +1,9 @@
+### Requirements
+
+```bash
+pip install -r requirements
+```
+Test
+```bash
+ python vfeat_extractor.py 
+```

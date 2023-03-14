@@ -1,4 +1,7 @@
-numpy==1.22.0
+numpy
 torch==1.2.0
 torchvision==0.4.0
 pandas==0.24.1
+Pillow==6.1.0
+tqdm
+munch

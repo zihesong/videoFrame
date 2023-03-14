@@ -2,8 +2,10 @@
 
 ```bash
 pip install -r requirements
+sudo apt install ffmpeg
 ```
 Test
 ```bash
  python vfeat_extractor.py 
 ```
+
